@@ -1,0 +1,11 @@
+{
+  "domain": "zayneed",
+  "owner": {
+    "email": "zayneed@zayneed.cloud",
+    "name": "Zayneed",
+    "github": "zayneed"
+  },
+  "record": {
+    "CNAME": "zayneed.cloud"
+  }
+}
